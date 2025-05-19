@@ -28,21 +28,21 @@ O pipeline foi dividido em etapas modulares, utilizando **Python** e bibliotecas
 
 A análise demonstrou que clientes do **gênero feminino** têm uma **proporção de saída maior** em relação ao total da sua categoria, mesmo sendo minoria na base.
 
-![Distribuição por Gênero](../img/distribuicao_genero.png)
+![Distribuição por Gênero](https://raw.githubusercontent.com/matheusvazdata/desafio-4-trilhas-2b/main/img/distribuicao_genero.png)
 
 ### 3.2 Estado e Evasão
 
 Apesar de o estado **PI** ter o maior número de clientes, o **MA** apresenta a **maior taxa proporcional de saída**. CE também possui representação significativa.  
 Outros estados foram agrupados como `outro_estado` e valores inválidos foram tratados como `sem_estado`.
 
-![Distribuição por Estado](../img/distribuicao_estado.png)
+![Distribuição por Estado](https://raw.githubusercontent.com/matheusvazdata/desafio-4-trilhas-2b/main/img/distribuicao_estado.png)
 
 ### 3.3 Faixa Etária
 
 A faixa etária de clientes varia entre 18 e 70 anos.  
 A idade mediana dos clientes que saíram está ao redor dos **45 anos**, indicando concentração em clientes de meia-idade.
 
-![Violinplot por Idade e Gênero](../img/violinplot_idade_genero.png)
+![Violinplot por Idade e Gênero](https://raw.githubusercontent.com/matheusvazdata/desafio-4-trilhas-2b/main/img/violinplot_idade_genero.png)
 
 ### 3.4 Saldo e Bens
 
@@ -51,14 +51,14 @@ A idade mediana dos clientes que saíram está ao redor dos **45 anos**, indican
 
 Apesar de apresentarem saldo elevado, esses clientes optaram por sair, o que reforça a hipótese de que a decisão de evasão não é guiada apenas por aspectos financeiros.
 
-![Boxplot de Saldo por Saída](../img/boxplot_saldo_saida.png)
+![Boxplot de Saldo por Saída](https://raw.githubusercontent.com/matheusvazdata/desafio-4-trilhas-2b/main/img/boxplot_saldo_saida.png)
 
 ### 3.5 Correlação
 
 A matriz de correlação revelou **baixas correlações entre as variáveis numéricas e o churn**.  
 A maior foi entre **idade** e **saiu** (~0.30), sugerindo que outras variáveis qualitativas podem ser relevantes.
 
-![Heatmap de Correlações](../img/heatmap_correlacoes.png)
+![Heatmap de Correlações](https://raw.githubusercontent.com/matheusvazdata/desafio-4-trilhas-2b/main/img/heatmap_correlacoes.png)
 
 A ausência de correlações fortes reforça a necessidade de investigar variáveis comportamentais ou contextuais.
 
