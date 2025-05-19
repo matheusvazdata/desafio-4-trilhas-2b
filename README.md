@@ -1,6 +1,15 @@
 # 📊 Desafio 4 — Limpeza e Análise de Dados de Clientes Bancários
 
-Este projeto foi desenvolvido como parte da Trilha 2B e tem como objetivo aplicar técnicas de **limpeza de dados**, **análise exploratória** e **estatística descritiva** sobre uma base de clientes de um banco que atua em estados do Nordeste brasileiro.
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-informational?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-9cf?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualização-orange?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-Estatística-blueviolet?logo=seaborn)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow?logo=jupyter)
+![Docker](https://img.shields.io/badge/Docker-Containerizado-2496ED?logo=docker)
+![VSCode](https://img.shields.io/badge/VSCode-WSL-green?logo=visualstudiocode)
+
+Este projeto foi desenvolvido como parte da Trilhas 2B e tem como objetivo aplicar técnicas de **limpeza de dados**, **análise exploratória** e **estatística descritiva** sobre uma base de clientes de um banco que atua em estados do Nordeste brasileiro.
 
 📁 Repositório: [matheusvazdata/desafio-4-trilhas-2b](https://github.com/matheusvazdata/desafio-4-trilhas-2b)
 
