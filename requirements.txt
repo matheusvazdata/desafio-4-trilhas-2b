@@ -4,3 +4,4 @@ seaborn
 matplotlib
 jupyter
 openpyxl
+unidecode
