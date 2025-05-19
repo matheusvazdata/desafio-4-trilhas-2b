@@ -2,7 +2,7 @@
 
 **Desafio:** Trilhas 2B — Inova Maranhão  
 **Autor:** Francisco Matheus Vaz dos Santos  
-**Entrega:** 20/05/2025  
+**Entrega:** 19/05/2025  
 
 ## 1. Introdução
 
