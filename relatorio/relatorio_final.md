@@ -9,7 +9,7 @@
 Este projeto teve como objetivo aplicar técnicas de limpeza, análise e exploração de dados sobre uma base de clientes de um banco com atuação regional no Nordeste brasileiro. A base apresentava inconsistências comuns em dados brutos: valores nulos, categorias inconsistentes, outliers e erros de digitação. 
 
 A análise foi conduzida para limpar os dados, entender padrões de evasão (clientes que saíram do banco) e identificar insights que auxiliem na tomada de decisão estratégica.  
-Os resultados buscam apoiar decisões da área de retenção de clientes.
+Os resultados buscam apoiar decisões da área que trabalha a retenção de clientes.
 
 ## 2. Metodologia
 
